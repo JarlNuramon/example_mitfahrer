@@ -16,7 +16,7 @@ public class AppTest {
 	    }
 	    @DisplayName("Play FizzBuzz with number = 3")
 	    @Test
-	    public void testFizz() {
+	    public void test() {
 
 		       Assertions.assertTrue(true, "");
 	    }
