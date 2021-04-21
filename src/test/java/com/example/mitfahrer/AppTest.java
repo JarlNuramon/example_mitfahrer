@@ -7,15 +7,13 @@ import org.junit.jupiter.api.*;
  */
 public class AppTest {
 	
-	 
-
+	
 	    @DisplayName("Play FizzBuzz with number = 1")
 	    @Test
 	    public void testNumber() {
 
 		       Assertions.assertTrue(true, "");
 	    }
-
 	    @DisplayName("Play FizzBuzz with number = 3")
 	    @Test
 	    public void testFizz() {
