@@ -4,7 +4,7 @@ package com.example.mitfahrer;
 public class Model {
 
 	public enum PaymentMethodes{
-		CASH,PAYPAL,KLARNA,LASTSCHRIFT, //RECHNUNG
+		CASH,PAYPAL,KLARNA,LASTSCHRIFT, RECHNUNG
 	}
 	private Model() {
 
